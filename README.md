@@ -1,7 +1,7 @@
 ### 교재 : 파이썬으로 데이터 주무르기
 #### 저자 : 민형기
 
-파이썬 강의
+Pandas,Matplotlib, numpy, folium, KoNLPy, Beatiful Soup, Selenium 등 데이터 분석과 시각화에 필요한 많은 모듈을 다룸
 
 ### 빅데이터를 활용한 스마트데이터 전문가 양성과정
 
