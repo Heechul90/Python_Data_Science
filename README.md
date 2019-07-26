@@ -10,6 +10,9 @@
 
 2019.05~2019.11
 
-* <a href="https://bookthumb-phinf.pstatic.net/cover/128/980/12898027.jpg?type=m140&udate=20190518">독특한 예제를 통해 배우는 데이터 분석 입문, 파이썬으로 데이터 주무르기</a>
+
+# 독특한 예제를 통해 배우는 데이터 분석 입문, 파이썬으로 데이터 주무르기
+* <a href="https://github.com/bjpublic/DataScience">소스코드</a>
+
 
 ![](https://bookthumb-phinf.pstatic.net/cover/128/980/12898027.jpg)
