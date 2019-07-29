@@ -11,14 +11,18 @@ test_a * test_a      # Matrix element들 간의 곱, shape이 같을 때
 
 
 ## Dot product
-test_a = np.arange(1, 7).reshape(2, 3)     # Matrix 곱셈
-test_b = np.arange(7, 13).reshape(3, 2)    # (l,m) x (m,n)  (l,n)
+# Matrix 곱셈
+# (l,m) x (m,n)  (l,n) m의 크기가 같아야 곱셈이 가능
+# ex: (2, 3) x (3, 2) -> (2, 2)
+
+test_a = np.arange(1, 7).reshape(2, 3)
+test_b = np.arange(7, 13).reshape(3, 2)
 test_a.dot(test_b)
 
 
 ## Transpose
 test_a = np.arange(1, 7).reshape(2, 3)
-test_a.tranpose()
+test_a.transpose()
 test_a.T
 
 
