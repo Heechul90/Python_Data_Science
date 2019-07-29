@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Data_Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Data_Science.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/queen.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/01. CCTV_in_Seoul.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/01. CCTV_result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/01. population_in_Seoul.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. crime_in_Seoul.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. crime_in_Seoul_final.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. crime_in_Seoul_include_gu_name.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. folium_US_Unemployment_Oct2012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. folium_us-states.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. sales-funnel.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/02. skorea_municipalities_geo_simple.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/03. best_sandwiches_list_chicago.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/03. best_sandwiches_list_chicago2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/03. test_first.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/05. draw_korea.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/05. draw_korea_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/05. election_result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/05. population_raw_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/05. skorea_municipalities_geo_simple.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/06. result.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/06. result2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. a_new_hope.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. alice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. alice_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. example_wp_R.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. example_wp_peyton_manning.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. portland-oregon-average-monthly-.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. stormtrooper_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/07. web_traffic.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/08. PinkWink Web Traffic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/08. example_wp_R.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/08. example_wp_peyton_manning.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/09. a_new_hope.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/09. alice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/09. alice_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/09. heart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/09. stormtrooper_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (1).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (10).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (11).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (12).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (13).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (14).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (15).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (16).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (17).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (18).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (19).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (2).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (20).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (21).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (22).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (23).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (24).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (3).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (4).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (5).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (6).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (7).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (8).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소) (9).xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/지역_위치별(주유소).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,21 +12,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state>
+              <caret column="49" selection-start-column="49" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
+        <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="418">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <element signature="e#33#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -124,8 +73,10 @@
         <option value="$PROJECT_DIR$/Numpy/Numpy_data_I/O.py" />
         <option value="$PROJECT_DIR$/Numpy/Practice.py" />
         <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/ch1-2(파이썬에서 텍스트 파일과 엑셀 파일 읽기 - panda).py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py" />
         <option value="$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
+        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py" />
+        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-3.py" />
+        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-4.py" />
       </list>
     </option>
   </component>
@@ -141,7 +92,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="983" />
+    <option name="width" value="1174" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -152,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,13 +119,18 @@
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="1장. 서울시 구별 CCTV 현황 분석" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
               <item name="Numpy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,10 +164,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="983" height="1041" extended-state="0" />
+    <frame x="-7" y="0" width="1174" height="1041" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2646121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21996467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -223,7 +180,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3247191" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.42022473" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -287,13 +244,6 @@
     <entry file="file://$PROJECT_DIR$/Numpy/filename.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -301,10 +251,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#33#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
         </state>
       </provider>
     </entry>
