@@ -13,6 +13,7 @@ df2 = pd.DataFrame({
 })
 df2
 
+df2.groupby(df2.key1)[['data1']].sum()
 
 
 
@@ -23,4 +24,55 @@ df2
 ## 이 수치들을 이용하여 붓꽃 종을 찾아낼 수 있을지 생각하라.
 import seaborn as sns
 iris = sns.load_dataset("iris")
+iris.groupby(iris.species)[['sepal_length', 'sepal_width']].mean()
 
+
+
+
+## 연습 문제 3
+import seaborn as sns
+
+tips = sns.load_dataset('tips')
+tips['tip_pct'] = tips['tip'] / tips['total_bill']
+
+# 1. 팁의 비율이 요일과 점심/저녁 여부, 인원수에 어떤 영향을 받는지 살펴본다.
+tips.pivot_table('tip_pct',
+                 index = 'day',
+                 columns = ['time', 'size'])
+
+tips.pivot_table('tip_pct',
+                 index = ['day', 'time', 'size'])
+
+tips.groupby(['day', 'time', 'size'])[['tip_pct']].describe()
+
+
+# 2. 어떤 요인이 가장 크게 작용하는지 판단할 수 있는 방법이 있는가?
+# day = Sat
+# time = Dinner
+# size = 1
+# tip_pct = 0.231832
+
+
+
+
+## 연습 문제 4
+## 타이타닉 승객 데이터를 이용하여 다음 분석을 실시하라. 데이터는 다음과 같이 받을 수 있다.
+import seaborn as sns
+
+titanic = sns.load_dataset("titanic")
+
+# 1. qcut 명령으로 세 개의 나이 그룹을 만든다.
+titanic['age_group'] = pd.qcut(titanic['age'], 3, labels = ['청소년', '어른', '노인'])
+
+
+# 2. 성별, 선실, 나이 그룹에 의한 생존율을 데이터프레임으로 계산한다.
+#    행에는 성별 및 나이 그룹에 대한 다중 인덱스를 사용하고 열에는 선실 인덱스를 사용한다.
+sex_alive_pct = titanic.groupby('sex').size() / titanic['alive'].count()
+class_alive_pct = titanic.groupby('class').size() / titanic['alive'].count()
+age_group_alive_pct = titanic.groupby('age_group').size() / titanic['alive'].count()
+
+def alive_pct(x):
+    return titanic.groupby(x).size() / titanic[x].count()
+
+
+# 3. 성별 및 선실에 의한 생존율을 피봇 데이터 형태로 만든다.

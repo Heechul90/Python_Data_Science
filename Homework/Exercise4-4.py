@@ -36,16 +36,17 @@ titanic.iloc[:,12]
 ## 타이타닉호 승객중 성별(sex) 인원수,
 titanic.columns
 titanic.head()
-titanic.groupby('sex').count()
+titanic.groupby('sex').size()
+
 
 ## 나이별(age) 인원수,
-titanic.groupby('age').count()
+titanic.groupby('age').size()
 
 ## 선실별(class) 인원수,
-titanic.groupby('class').count()
+titanic.groupby('class').size()
 
 ## 사망/생존(alive) 인원수를 구하라.
-titanic.groupby('alive').count()
+titanic.groupby('alive').size()
 
 
 
@@ -61,7 +62,9 @@ labels = ["미성년자", "청년", "중년", "장년", "노년"]
 ## '미성년자', '청년', '중년', '장년', '노년' 승객의 비율을 구한다.
 ## 각 그룹 별로 비율의 전체 합은 1이 되어야 한다.
 
-titanic.columns
-titanic.head()
-g_titanic = pd.cut(titanic['age'], bins, labels = labels)
-g_titanic.apply(pd.value_counts())
+titanic['group_age'] = pd.cut(titanic['age'], bins, labels = labels)
+
+g_titanic = titanic.groupby(['alive', 'group_age']).count()[['survived']]
+
+g_titanic['group_age_pct'] = g_titanic['survived']/ g_titanic['survived'].sum() * 100
+
