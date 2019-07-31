@@ -1,3 +1,4 @@
+### Exercise 4-5
 
 import pandas as pd
 import numpy as np
@@ -63,14 +64,14 @@ df_score4 = df_score3.set_index(['반', '번호'])
 df_score4
 
 # 3. 데이터 프레임 df_score4에 각 학생의 평균을 나타내는 행을 오른쪽에 추가한다.
-df_score4['평균'] = df_score4.mean(axis = 1)
+df_score4['평균'] = df_score4.mean(axis = 1).round(2)
 df_score4
 
 # 4. df_score3을 변형하여
 # 행 인덱스로 "번호"를,
 # 1차 열 인덱스로 "국어", "영어", "수학"을,
 # 2차 열 인덱스로 "반"을 가지는 데이터프레임 df_score5을 만든다.
-df_score5 = df_score3.set_index(['번호', '반']).unstack('반')
+df_score5 = df_score3.set_index(['반', '번호']).unstack('반')
 df_score5
 
 # 5. 데이터 프레임 df_score5에 각 반별 각 과목의 평균을 나타내는 행을 아래에 추가한다.
