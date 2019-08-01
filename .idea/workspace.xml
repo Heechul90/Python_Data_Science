@@ -5,13 +5,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/Python_Data_Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Data_Science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Exercise4-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Exercise4-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Exercise4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Exercise4-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Exercise4-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Exercise4-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/04.05 데이터프레임 인덱스 조작/04.05 데이터프레임 인덱스 조작.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.05~04.07)/Exercise4-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.05~04.07)/Exercise4-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.05~04.07)/Exercise4-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.05~04.07)/과제 22.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework(04.05~04.07)/이희철.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +18,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pandas/04.08 시계열 자료 다루기/Datetime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="113" column="35" lean-forward="true" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
+              <folding>
+                <element signature="e#17#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <element signature="e#17#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +105,7 @@
         <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-1.py" />
         <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-3.py" />
         <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-4.py" />
+        <option value="$PROJECT_DIR$/Pandas/04.08 시계열 자료 다루기/Datetime.py" />
       </list>
     </option>
   </component>
@@ -95,9 +119,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
-    <option name="width" value="1020" />
+    <option name="width" value="1166" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -108,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,18 +142,19 @@
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework(04.01~04.04)" type="462c0819:PsiDirectoryNode" />
+              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="04.08 시계열 자료 다루기" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,9 +216,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1020" height="1041" extended-state="0" />
+    <frame x="-7" y="0" width="1166" height="1041" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26844263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,20 +232,13 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3612684" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.4741573" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Numpy/Boolean&amp;fancy_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Numpy/queen.txt" />
     <entry file="file://$PROJECT_DIR$/Numpy/Numpy_data_I/O.py" />
     <entry file="file://$PROJECT_DIR$/Numpy/Practice.py">
@@ -388,16 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2650">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/Exercise4-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -446,6 +454,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#17#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pandas/04.08 시계열 자료 다루기/Datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="113" column="35" lean-forward="true" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
+          <folding>
+            <element signature="e#17#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
