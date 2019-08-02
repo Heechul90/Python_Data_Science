@@ -10,34 +10,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <element signature="e#48#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-8.py">
+        <entry file="file://$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/Seadorn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
+            <state relative-caret-position="414">
+              <caret line="300" column="10" lean-forward="true" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
               <folding>
-                <element signature="e#36#55#0" expanded="true" />
+                <element signature="e#37#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,13 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lecture/ch01.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_Array_shape.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_ndarray02.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_Indexing_Slicing.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_Creation_Function.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_Operation_function.py" />
-        <option value="$PROJECT_DIR$/Lecture/Numpy_Array_operation.py" />
         <option value="$PROJECT_DIR$/Numpy/Numpy_Array_operation.py" />
         <option value="$PROJECT_DIR$/Numpy/Array_operation.py" />
         <option value="$PROJECT_DIR$/Numpy/Comparison.py" />
@@ -108,6 +80,14 @@
         <option value="$PROJECT_DIR$/../SQLite3/test.py" />
         <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-7.py" />
         <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-8.py" />
+        <option value="$PROJECT_DIR$/Homework/Exercise05.01.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py" />
+        <option value="$PROJECT_DIR$/Homework/Exercise5-1.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Barchart.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/adf.py" />
+        <option value="$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/fefefe.py" />
       </list>
     </option>
   </component>
@@ -145,13 +125,23 @@
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="1장. 서울시 구별 CCTV 현황 분석" type="462c0819:PsiDirectoryNode" />
+              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+              <item name="05.04 Seaborn을 사용한 데이터 분포 시각화" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Numpy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SQLite3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -226,8 +216,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1166" height="1041" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23309608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,58 +231,13 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.4741573" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.33932585" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Numpy/Practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/Numpy_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/npy_test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/filename.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpy/filename.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
-    <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#33#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pandas/Series.py" />
     <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -442,13 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SQLite3/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../SQLite3/test.py" />
     <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -468,10 +408,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="414">
           <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
           <folding>
             <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Homework(04.05~04.08)/Exercise4-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Exercise5-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="49" selection-start-line="49" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Graphs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="206" column="10" lean-forward="true" selection-start-line="206" selection-start-column="10" selection-end-line="206" selection-end-column="10" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/Grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/Seadorn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="300" column="10" lean-forward="true" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
