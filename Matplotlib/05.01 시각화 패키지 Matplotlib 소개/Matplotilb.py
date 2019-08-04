@@ -7,13 +7,16 @@ import matplotlib.font_manager as fm
 import numpy as np
 import pandas as pd
 
-# 한글 사용하기(둘 중 하나)
-mpl.reParams['axes.unicode_minus'] = False
-[(f.namn f.fname) for f in fm.fontManager.ttflist if 'Malgun' in f.name]
+# 한글 사용하기
+font_fname = 'C:/Windows/Fonts/NanumBarunGothic.ttf'          # NanumBarunGothic.ttf를 원하는 폰트명으로 바꾼다.
+font_family = fm.FontProperties(fname=font_fname).get_name()  # 해당 폰트명에서 폰트 패밀리 이름(영문)을 가져온다.
+print(font_family)
 
-plt.rcParams["font.family"] = 'NanumBarunGothic'
-plt.rcParams["font.size"] = 10
-
+print ('버전: ', mpl.__version__)
+print ('설치 위치: ', mpl.__file__)
+print ('설정 위치: ', mpl.get_configdir())
+print ('캐시 위치: ', mpl.get_cachedir())
+print ('설정 파일 위치: ', mpl.matplotlib_fname())
 
 
 # Matplotlib는 다음과 같은 정형화된 차트나 플롯 이외에도
@@ -26,15 +29,6 @@ plt.rcParams["font.size"] = 10
 # 바 차트(bar chart)
 # 히스토그램(histogram)
 # 박스 플롯(box plot)
-
-
-# 한글 사용
-mpl.rcParams['axes.unicode_minus'] = False # minus 표시
-
-[(f.name, f.fname) for f in fm.fontManager.ttflist if 'Nanum' in f.name]
-
-plt.rcParams['forn.family'] = 'Malgun Gothic'
-plt.rcParams['font.size'] = 10
 
 
 ## pylab 서브패키지

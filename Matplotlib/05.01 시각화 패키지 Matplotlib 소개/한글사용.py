@@ -11,7 +11,7 @@ import pandas as pd
 mpl.reParams['axes.unicode_minus'] = False
 [(f.namn f.fname) for f in fm.fontManager.ttflist if 'Malgun' in f.name]
 
-plt.rcParams["font.family"] = 'NanumBarunGothic'
+plt.rcParams["font.family"] = '나눔고딕'
 plt.rcParams["font.size"] = 10
 
 
