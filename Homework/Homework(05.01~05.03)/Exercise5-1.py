@@ -1,7 +1,16 @@
 ### Exercise 5-1
 
-import pandas as pd
+# 모듈 준비하기
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
 import numpy as np
+import pandas as pd
+
+# 한글 사용하기(둘 중 하나)
+font_fname = 'C:/Windows/Fonts/Arial.ttf'
+font_family = fm.FontProperties(fname=font_fname).get_name()
+print(font_family)
 
 
 ## 연습 문제 5-1
@@ -21,7 +30,7 @@ plt.plot([1, 2,3, 4, 5], [11, 25, 11, 3, 9],
          mec = 'm',
          mew = 2,
          mfc = 'r',
-         label="배추")
+         label="aaaaa")
 plt.plot([1, 2,3, 4, 5], [30, 12, 21, 7, 52],
          c = 'b',
          lw = 4,
@@ -31,7 +40,7 @@ plt.plot([1, 2,3, 4, 5], [30, 12, 21, 7, 52],
          mec = 'y',
          mew = 3,
          mfc = 'g',
-         label="상추")
+         label='bbbbb')
 plt.plot([1, 2,3, 4, 5], [9, 35, 14, 2, 15],
          c = 'b',
          lw = 5,
@@ -41,13 +50,12 @@ plt.plot([1, 2,3, 4, 5], [9, 35, 14, 2, 15],
          mec = 'k',
          mew = 4,
          mfc = 'b',
-         label="양상추")
-plt.xlabel("x축 label")
-plt.ylabel("y축 label")
-plt.title("title 입니다")
+         label="ccccc")
+plt.xlabel("x label")
+plt.ylabel("y label")
+plt.title("title")
+plt.legend()
 plt.show()
-
-
 
 
 
@@ -56,6 +64,34 @@ plt.show()
 ## 여러가지 함수를 사용하여 위와 같이 subplot들로 구성된 그림을 그려보자.
 ## 모든 subplot에 대해 xlabel, ylabel, title이 있어야 한다.
 
+np.random.seed(0)
+
+plt.subplot(221)
+plt.plot(np.random.rand(5))
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("axes 1")
+
+plt.subplot(222)
+plt.plot(np.random.rand(5))
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("axes 2")
+
+plt.subplot(223)
+plt.plot(np.random.rand(5))
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("axes 3")
+
+plt.subplot(224)
+plt.plot(np.random.rand(5))
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("axes 4")
+
+plt.tight_layout()
+plt.show()
 
 
 
@@ -64,11 +100,20 @@ plt.show()
 ## 연습 문제 5-3
 # 1. Matplotlib 갤러리 웹사이트에서 관심있는 예제 코드를 하나 고른다.
 #    http://matplotlib.org/gallery.html
-
-
 # 2. 예제 코드에 사용된 Matplotlib API 명령의 목록을 만들고
 #    Matplotlib 웹사이트에서 관련 링크를 찾아 내용을 정리한다.
-
-
-
 # 3. 변형된 형태의 플롯을 만들어본다.
+
+x = np.linspace(0, 10, 500)
+dashes = [10, 5, 100, 5]        # 10 points on, 5 off, 100 on, 5 off
+
+fig, ax = plt.subplots()
+line1, = ax.plot(x, np.sin(x), '--', linewidth=2,
+                 label='Dashes set retroactively')
+line1.set_dashes(dashes)
+
+line2, = ax.plot(x, -1 * np.sin(x), dashes=[30, 5, 10, 5],
+                 label='Dashes set proactively')
+
+ax.legend(loc='lower right')
+plt.show()

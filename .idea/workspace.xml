@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Exercise5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Exercise5-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/Exercise5-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="e#28#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#37#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,7 +98,6 @@
         <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py" />
         <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py" />
         <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise5-1.py" />
         <option value="$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Barchart.py" />
         <option value="$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/adf.py" />
         <option value="$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/fefefe.py" />
@@ -77,6 +111,7 @@
         <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Data/section2-8.py" />
         <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-9.py" />
         <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-10.py" />
+        <option value="$PROJECT_DIR$/Homework/Exercise5-1.py" />
       </list>
     </option>
   </component>
@@ -90,9 +125,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1166" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-3" />
+    <option name="y" value="11" />
+    <option name="width" value="1169" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -114,13 +150,18 @@
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="2장. 서울시 범죄 현황 분석" type="462c0819:PsiDirectoryNode" />
+              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+              <item name="05.01 시각화 패키지 Matplotlib 소개" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,9 +235,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1166" height="1041" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1448203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,16 +249,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921347" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32842582" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.5370787" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.22757848" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pandas/04.02 데이터 입출력.ipynb" />
     <entry file="file://$PROJECT_DIR$/sample1.csv" />
     <entry file="file://$PROJECT_DIR$/Pandas/Read.py" />
     <entry file="file://$PROJECT_DIR$/sample9.csv" />
@@ -370,86 +411,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise5-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="e#18#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="49" selection-start-line="49" selection-end-line="63" selection-end-column="10" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Graphs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="206" column="10" lean-forward="true" selection-start-line="206" selection-start-column="10" selection-end-line="206" selection-end-column="10" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/Grid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.05 Pandas의 시각화 기능/Pandas_plot_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
-          <folding>
-            <element signature="e#175#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/Seadorn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="21" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py" />
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py" />
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Graphs.py" />
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/Grid.py" />
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.05 Pandas의 시각화 기능/Pandas_plot_method.py" />
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/Seadorn.py" />
     <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -527,6 +494,33 @@
           <caret selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#37#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/Exercise5-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#28#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
