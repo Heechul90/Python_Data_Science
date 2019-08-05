@@ -88,6 +88,8 @@ df = pd.DataFrame(data)
 df.head()
 df.columns
 
+
+
 # csv 로 저장하기
 df.to_csv('../data/03. best_sandwiches_list_chicago.csv', sep=',',
           encoding='UTF-8')

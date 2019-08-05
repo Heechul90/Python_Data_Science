@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,32 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" />
-              <folding>
-                <element signature="e#60#89#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py">
+        <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+            <state relative-caret-position="201">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
               <folding>
                 <element signature="e#57#86#0" expanded="true" />
               </folding>
@@ -60,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework/연습문제1.py" />
         <option value="$PROJECT_DIR$/Homework/Exercise4-3.py" />
         <option value="$PROJECT_DIR$/Homework/연습문제4-2-5.py" />
         <option value="$PROJECT_DIR$/Pandas/Dataframe.py" />
@@ -111,6 +89,7 @@
         <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py" />
         <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-1.py" />
         <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py" />
+        <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" />
       </list>
     </option>
   </component>
@@ -124,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1209" />
     <option name="height" value="1041" />
@@ -149,12 +128,6 @@
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="2장. 서울시 범죄 현황 분석" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
@@ -256,10 +229,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1209" height="1041" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2176521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13372093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,14 +244,13 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32842582" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.43370786" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.42825112" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pandas/04.05 데이터프레임 인덱스 조작/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Pandas/04.05 데이터프레임 인덱스 조작/Dataframe_index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -573,27 +544,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py" />
+    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" />
+        <state relative-caret-position="175">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding>
             <element signature="e#60#89#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py">
+    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        <state relative-caret-position="201">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="e#57#86#0" expanded="true" />
           </folding>
