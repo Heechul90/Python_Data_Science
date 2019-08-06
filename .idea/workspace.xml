@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="" />
+    <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/7장. 시계열 데이터를 다뤄보자/test.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="95" selection-end-column="56" />
+              <folding>
+                <element signature="e#51#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
-              <caret line="163" column="19" lean-forward="true" selection-start-line="163" selection-start-column="19" selection-end-line="163" selection-end-column="19" />
+            <state relative-caret-position="314">
+              <caret line="461" column="13" selection-start-line="461" selection-start-column="13" selection-end-line="461" selection-end-column="13" />
               <folding>
                 <element signature="e#46#65#0" expanded="true" />
               </folding>
@@ -22,14 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Review.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#41#62#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -49,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Dataframe_merge.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Datafram_concat.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py" />
         <option value="$PROJECT_DIR$/SQLite/test.py" />
         <option value="$PROJECT_DIR$/../SQLite/test.py" />
         <option value="$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Pivot_table.py" />
@@ -99,7 +110,10 @@
         <option value="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-1.py" />
         <option value="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-4.py" />
         <option value="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~3.py" />
+        <option value="$PROJECT_DIR$/Lecture/7장. 시계열 데이터를 다뤄보자/section7-2.py" />
+        <option value="$PROJECT_DIR$/Lecture/7장. 시계열 데이터를 다뤄보자/section7-1.py" />
         <option value="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py" />
+        <option value="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py" />
       </list>
     </option>
   </component>
@@ -115,7 +129,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
-    <option name="width" value="1209" />
+    <option name="width" value="1140" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -142,7 +156,19 @@
               <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="2장. 서울시 범죄 현황 분석" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="5장. 우리나라 인구 소멸 위기 지역 분석" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="7장. 시계열 데이터를 다뤄보자" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,10 +265,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1209" height="1041" extended-state="0" />
+    <frame x="-7" y="0" width="1140" height="1041" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23041895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,17 +288,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SQLite/test.py" />
-    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Pivot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#16#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/Exercise4-1.py" />
     <entry file="file://$PROJECT_DIR$/Homework/Exercise4-3.py" />
     <entry file="file://$PROJECT_DIR$/Homework/Exercise4-4.py" />
@@ -436,16 +451,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/test.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#65#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py" />
     <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -495,16 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2337">
-          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,22 +558,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py">
+    <entry file="file://$PROJECT_DIR$/Lecture/7장. 시계열 데이터를 다뤄보자/section7-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/7장. 시계열 데이터를 다뤄보자/section7-1~2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="163" column="19" lean-forward="true" selection-start-line="163" selection-start-column="19" selection-end-line="163" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#46#65#0" expanded="true" />
+            <element signature="e#36#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state>
+          <caret selection-end-line="95" selection-end-column="56" />
           <folding>
-            <element signature="e#41#62#0" expanded="true" />
+            <element signature="e#51#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="461" column="13" selection-start-line="461" selection-start-column="13" selection-end-line="461" selection-end-column="13" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
