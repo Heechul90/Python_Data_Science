@@ -7,6 +7,7 @@ import numpy as np
 from urllib.request import urlopen
 
 
+
 # url 가져오기
 url_base = 'http://www.chicagomag.com'
 url_sub = '/Chicago-Magazine/November-2012/Best-Sandwiches-Chicago/'

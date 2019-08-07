@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="" />
+    <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/5장. 우리나라 인구 소멸 위기 지역 분석/section5-2~5.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
-              <folding>
-                <element signature="e#57#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,63 +22,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Homework/Exercise4-3.py" />
-        <option value="$PROJECT_DIR$/Homework/연습문제4-2-5.py" />
-        <option value="$PROJECT_DIR$/Pandas/Dataframe.py" />
-        <option value="$PROJECT_DIR$/sample5.csv" />
-        <option value="$PROJECT_DIR$/Pandas/Read.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.03 데이터프레임 고급 인덱싱/loc.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.05 데이터프레임 인덱스 조작/Dataframe_index.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Dataframe_merge.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Datafram_concat.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py" />
-        <option value="$PROJECT_DIR$/SQLite/test.py" />
-        <option value="$PROJECT_DIR$/../SQLite/test.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Pivot_table.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise4-4.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise4-7.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise4-5.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise4-6.py" />
-        <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-1.py" />
-        <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-3.py" />
-        <option value="$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-4.py" />
-        <option value="$PROJECT_DIR$/Pandas/04.08 시계열 자료 다루기/Datetime.py" />
-        <option value="$PROJECT_DIR$/../SQLite3/test.py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-7.py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-8.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise05.01.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Barchart.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/adf.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/fefefe.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.05 Pandas의 시각화 기능/sadfefefefe.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-3.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-4.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-5.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-6.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-7.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Data/section2-8.py" />
-        <option value="$PROJECT_DIR$/Homework/Exercise5-1.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py" />
-        <option value="$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/graph/Review.py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-2.py" />
-        <option value="$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/Review.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-10.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/test.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-9.py" />
-        <option value="$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Review.py" />
-        <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py" />
-        <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-1.py" />
-        <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py" />
-        <option value="$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -101,48 +32,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1209" />
-    <option name="height" value="1041" />
-  </component>
+  <component name="ProjectId" id="1P5VAV1bAxKT3F9RJ0HBjRAg9tz" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Data_Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Data_Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="3장. 시카고 샌드위치 맛집 분석" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Deep_Learning" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Crawling" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -226,349 +123,17 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13372093" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32842582" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.42825112" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pandas/04.05 데이터프레임 인덱스 조작/Dataframe_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-          <folding>
-            <element signature="e#19#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Dataframe_merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#15#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas/04.06 데이터프레임 합성/Datafram_concat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="e#15#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQLite/test.py" />
-    <entry file="file://$PROJECT_DIR$/../SQLite/test.py" />
-    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Pivot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#16#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-1.py" />
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-3.py" />
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-4.py" />
-    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Pivot_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="123" selection-start-line="123" selection-end-line="124" selection-end-column="28" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-7.py" />
-    <entry file="file://$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#2#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Homework(04.01~04.04)/Exercise4-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-5.py" />
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise4-6.py" />
-    <entry file="file://$PROJECT_DIR$/Pandas/04.08 시계열 자료 다루기/Datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="113" column="35" lean-forward="true" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas/04.07 피봇테이블과 그룹분석/Group_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#17#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SQLite3/test.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#48#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="157" column="10" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Homework(04.05~04.08)/Exercise4-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#18#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotlib_figure_axes.py" />
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.02 Matplotlib의 여러가지 플롯/Graphs.py" />
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.03 Matplotlib의 삼각 그리드 사용법/Grid.py" />
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.05 Pandas의 시각화 기능/Pandas_plot_method.py" />
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.04 Seaborn을 사용한 데이터 분포 시각화/Seadorn.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#42#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#42#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Data/section2-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#30#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Exercise5-1.py" />
-    <entry file="file://$PROJECT_DIR$/Numpy/Array_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/Matplotilb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Matplotlib/05.01 시각화 패키지 Matplotlib 소개/한글사용.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#37#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Homework(05.01~05.03)/Exercise5-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="e#28#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/graph/Review.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/section1-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/1장. 서울시 구별 CCTV 현황 분석/Review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" />
-          <folding>
-            <element signature="e#79#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/test.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/section2-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
-          <folding>
-            <element signature="e#37#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/2장. 서울시 범죄 현황 분석/Review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#65#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3.py" />
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture/3장. 시카고 샌드위치 맛집 분석/section3-3~4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="e#57#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
