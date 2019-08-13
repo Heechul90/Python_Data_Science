@@ -307,8 +307,6 @@ thres2 = cv2.adaptiveThreshold(image,
 thres1
 thres2
 
-
-
 # 하나의 이미지에 다수의 조명 상태가 존재하는 경우
 plt.figure(figsize=(12,3))
 
