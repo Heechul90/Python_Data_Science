@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f0bb6e56-a02e-4307-8b4b-479298b6a337" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy/Array_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/Array_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy/Array_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/Array_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy/Comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/Comparison.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -26,7 +26,7 @@ tensor = [[[1,2,5,8], [2,3,4,9], [4,5,6,7]],
 
 # shape은 (4, 3, 4) : 평면이 4개, 행이 3개, 열이 4개인 텐서
 
-tensor = np.array(tensor, int).shape
+np.array(tensor, int).shape
 
 
 ## ndim % size

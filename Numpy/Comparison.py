@@ -26,6 +26,7 @@ b = np.logical_and(a > 0, a < 3)  # and 조건
 
 c = np.logical_not(b)
 np.logical_or(b, c)
+np.logical_and(b, c)
 
 # 0보다 크면 True면 3, False면 2
 np.where(a > 0, 3, 2)             # where(condition, True, False

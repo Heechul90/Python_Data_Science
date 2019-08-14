@@ -35,6 +35,7 @@ test_matrix - scalar
 test_matrix * scalar
 test_matrix / scalar              # 나누기
 test_matrix // scalar             # 몫
+test_matrix % scalar              # 나머지
 test_matrix ** 2                  # 제곱
 
 # Matrix와 Vector 간의 연산도 가능
